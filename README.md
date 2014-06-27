@@ -17,5 +17,5 @@ Détails des réseaux:<br> -SSID<br>-BSSID<br>-Puissance (Db)<br>-Authentificati
 
 <b>Difficultés :</b>
 ----------------
--Problèmes d'authentification en WEP et WPA
+-Problèmes d'authentification en WEP et WPA<br>
 -Ajout d'un spinner dans la boite de dialogue
