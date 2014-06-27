@@ -3,10 +3,11 @@ IUT_Wifiproject
 
 Fonctionelle :
 
--Affichage des réseaux Wifi à porter
--Sélection d'un Réseaux avec affichage d'une fenêtre dialog
--Connexion à un Réseaux ouvert
+-Affichage des réseaux Wifi à porter<br>
+-Sélection d'un Réseaux avec affichage d'une fenêtre dialog<br>
+-Connexion à un Réseaux ouvert<br>
 
-Non Fonctionelle :
+A suivre :
 
 -Connexion WEP, WPA, EAP
+-Enregistrement d'un réseaux
