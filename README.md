@@ -3,7 +3,7 @@ IUT_Wifiproject
 Application permettant d'afficher les réseaux Wifi à porter et de si connecter.<br>
 Détails des réseaux:<br> -SSID<br>-BSSID<br>-Puissance (Db)<br>-Authentification<br>-Fréquence<br>
 
-<b>Fonctionelle :</b>
+<b>Fonctionel :</b>
 ------------------
 -Affichage des réseaux Wifi à porter<br>
 -Sélection d'un Réseaux avec affichage d'une fenêtre "dialog" (AlertBuilder)<br>
