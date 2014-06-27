@@ -14,7 +14,9 @@ Détails des réseaux:<br> -SSID<br>-BSSID<br>-Puissance (Db)<br>-Authentificati
 -------------
 -Connexion WEP, WPA, EAP<br>
 -Enregistrement d'un réseaux<br>
--Bouton de déconnexion
+-Bouton de déconnexion<br>
+-Connexion automatique<br>
+-Visuel de l'application
 
 <b>Difficultés :</b>
 ----------------
